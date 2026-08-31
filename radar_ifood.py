@@ -641,7 +641,7 @@ def generate_dashboard_html(ctx):
     </div>
   </section>
 
-  <footer>gerado automaticamente pelo ifood_gastos.py</footer>
+  <footer>gerado automaticamente pelo radar_ifood.py</footer>
 </div>
 </body>
 </html>"""
